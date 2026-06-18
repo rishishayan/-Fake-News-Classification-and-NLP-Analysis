@@ -222,7 +222,7 @@ The models were evaluated using:
 
 ### Most Common Entities in Fake News
 
-![Most Common Entities in Fake News](images/Most_common_Entities_in _fake_news.png)
+![Most Common Entities in Fake News](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/b772fcd6dc0d171e2ab3403b2e96ff21e5ef4f5d/Most_common_Entities_in%20_fake_news.png)
 
 Key Observation:
 - Political entities such as Trump, Clinton, Obama, and McCain appear frequently.
