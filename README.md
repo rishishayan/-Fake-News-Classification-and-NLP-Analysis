@@ -1,4 +1,4 @@
-# -Fake-News-Classification-and-NLP-Analysis
+# Fake News Classification and NLP Analysis
 ## Overview
 
 This project focuses on analysing and classifying news articles as **Fake News** or **Factual News** using various Natural Language Processing (NLP) techniques and Machine Learning models.
@@ -277,6 +277,14 @@ Key Observation:
 Key Observation:
 - Topic coherence was evaluated across different numbers of topics.
 - The optimal topic count was selected based on the highest coherence score.
+
+- ## Key Findings
+
+- Political figures such as Trump, Clinton, Obama, and McCain appeared frequently in fake news articles.
+- Factual news articles contained a higher proportion of organisations and geographical entities.
+- Sentiment distributions were similar across fake and factual news, indicating sentiment alone is not a strong discriminator.
+- Topic modelling identified recurring political and international news themes.
+- NLP feature engineering techniques such as TF-IDF and Bag-of-Words enabled effective fake news classification.
 
 ## Key NLP Techniques Demonstrated
 
