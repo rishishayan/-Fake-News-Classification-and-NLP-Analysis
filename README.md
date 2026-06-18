@@ -282,6 +282,13 @@ Key Observation:
 
 - Tokenization
 - Lemmatization
+- POS Tagging
+- Named Entity Recognition
+- Sentiment Analysis
+- Topic Modelling
+- TF-IDF Vectorisation
+- Bag-of-Words Representation
+- Text Classification
 
   ## Learning Outcomes
 
