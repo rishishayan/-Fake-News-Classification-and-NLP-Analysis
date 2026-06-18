@@ -115,7 +115,7 @@ Generated sentiment categories:
 - Neutral
 - Negative
 
-Analyzed sentiment distribution across:
+Analysed sentiment distribution across:
 
 - Fake News
 - Factual News
@@ -218,6 +218,65 @@ The models were evaluated using:
 - Classification Report
 
 ---
+## Results & Visualizations
+
+### Most Common Entities in Fake News
+
+![Most Common Entities in Fake News](images/Most_common_Entities_in_fake_news.png)
+
+Key Observation:
+- Political entities such as Trump, Clinton, Obama, and McCain appear frequently.
+- Fake news articles are heavily centered around political topics.
+
+---
+
+### Most Common Entities in Factual News
+
+![Most Common Entities in Factual News](images/Most_common_Entities_in_factual_news.png)
+
+Key Observation:
+- Factual news contains more references to organizations and geographical entities.
+- Reuters and U.S. are among the most frequently mentioned entities.
+
+---
+
+### Most Common Unigrams After Preprocessing
+
+![Most Common Unigrams](images/Most_common_unigrams.png)
+
+Key Observation:
+- Words such as "said", "trump", "state", and "president" dominate the corpus.
+- Political content is strongly represented in the dataset.
+
+---
+
+### Overall Sentiment Distribution
+
+![News Sentiment](images/news_sentiment.png)
+
+Key Observation:
+- Positive and negative sentiments occur at similar frequencies.
+- Neutral sentiment appears less frequently.
+
+---
+
+### Sentiment by News Type
+
+![Sentiment by News Type](images/sentiment_by_news_type.png)
+
+Key Observation:
+- Both fake and factual news exhibit similar sentiment patterns.
+- Sentiment alone is not sufficient to distinguish fake news.
+
+---
+
+### Topic Coherence Analysis
+
+![Topic Coherence](images/coherence_score.png)
+
+Key Observation:
+- Topic coherence was evaluated across different numbers of topics.
+- The optimal topic count was selected based on the highest coherence score.
 
 ## Key NLP Techniques Demonstrated
 
@@ -235,12 +294,12 @@ Through this project, the following NLP concepts were explored:
 - Feature engineering
 - Supervised machine learning for text classification
 
-This project serves as a complete beginner-to-intermediate NLP workflow for understanding and detecting fake news using Python.
+This project serves as an NLP workflow for understanding and detecting fake news using Python.
 
 - POS Tagging
 - Named Entity Recognition
 - Sentiment Analysis
-- Topic Modeling
-- TF-IDF Vectorization
+- Topic Modelling
+- TF-IDF Vectorisation
 - Bag-of-Words Representation
 - Text Classification
