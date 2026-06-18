@@ -232,17 +232,17 @@ Key Observation:
 
 ### Most Common Entities in Factual News
 
-![Most Common Entities in Factual News](images/Most_common_Entities_in_factual_news.png)
+![Most Common Entities in Factual News](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/6e3c7547ef6cb9da29a32b15548d33254c8b2ccc/Most_common_Entities_in%20_factual_news.png)
 
 Key Observation:
-- Factual news contains more references to organizations and geographical entities.
+- Factual news contains more references to organisations and geographical entities.
 - Reuters and U.S. are among the most frequently mentioned entities.
 
 ---
 
 ### Most Common Unigrams After Preprocessing
 
-![Most Common Unigrams](images/Most_common_unigrams.png)
+![Most Common Unigrams](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/6e3c7547ef6cb9da29a32b15548d33254c8b2ccc/Most_common_unigrams.png)
 
 Key Observation:
 - Words such as "said", "trump", "state", and "president" dominate the corpus.
@@ -252,7 +252,7 @@ Key Observation:
 
 ### Overall Sentiment Distribution
 
-![News Sentiment](images/news_sentiment.png)
+![News Sentiment](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/6e3c7547ef6cb9da29a32b15548d33254c8b2ccc/news_sentiment.png)
 
 Key Observation:
 - Positive and negative sentiments occur at similar frequencies.
@@ -262,7 +262,7 @@ Key Observation:
 
 ### Sentiment by News Type
 
-![Sentiment by News Type](images/sentiment_by_news_type.png)
+![Sentiment by News Type](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/6e3c7547ef6cb9da29a32b15548d33254c8b2ccc/sentiment_by_news_type.png)
 
 Key Observation:
 - Both fake and factual news exhibit similar sentiment patterns.
@@ -272,7 +272,7 @@ Key Observation:
 
 ### Topic Coherence Analysis
 
-![Topic Coherence](images/coherence_score.png)
+![Topic Coherence](https://github.com/rishishayan/-Fake-News-Classification-and-NLP-Analysis/blob/6e3c7547ef6cb9da29a32b15548d33254c8b2ccc/coherence_score.png)
 
 Key Observation:
 - Topic coherence was evaluated across different numbers of topics.
